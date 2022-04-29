@@ -41,6 +41,13 @@ https://user-images.githubusercontent.com/4378608/165664122-12178154-0821-4f16-8
 ### Dispenser
 <img src="https://user-images.githubusercontent.com/4378608/165680289-3427a877-aed5-4dd4-a4c5-e9af98574080.jpg" height="250">
 
+
+### Diagram
+<img src="https://user-images.githubusercontent.com/4378608/165878337-0723fd39-c4d9-4764-8ff8-84e47827847d.jpg" height="250">
+
+### Flow Chart
+<img src="https://user-images.githubusercontent.com/4378608/165878405-e51ad36c-e708-429c-a93a-c98e495078b2.jpg" height="600">
+
 ## Component list:
 1. Stainless steel Pancake batter dispenser
 2. ATmega2560 Rev3 development board
